@@ -23,7 +23,7 @@ const MOCK_HEROI_ATUALIZAR = {
 
 let MOCK_HEROI_ID = '';
 
-describe.only('MongoDB Suite de testes', function() {
+describe('MongoDB Suite de testes', function() {
 
   this.beforeAll(async () => {
     const connection = MongoDb.connect();

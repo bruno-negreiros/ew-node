@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "hapi": "^18.1.0",
     "mongoose": "^5.9.27",
     "pg": "^8.3.0",
     "pg-hstore": "^2.3.3",
